@@ -45,3 +45,6 @@ Create SQL views/tables for easy client access
 SELECT SUM(amount) AS total_revenue, COUNT(*) AS total_purchases
 FROM gold_dataset
 WHERE CAST(timestamp AS DATE) = CURRENT_DATE
+
+![image](https://github.com/user-attachments/assets/bb4c35f9-a320-49fa-87f6-63bfa5f11e4a)
+
